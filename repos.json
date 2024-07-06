@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "KSUforQ5",
+      "repo": "https://github.com/realme-kernel-opensource/realme_q5_realme9Pro5G-AndroidU-kernel-source",
+      "branch": "master",
+      "device": "oscar"
     },
     "withKernelSU": true,
     "toolchains": [
