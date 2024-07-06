@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "KSUforQ5",
-      "repo": "https://github.com/realme-kernel-opensource/realme_q5_realme9Pro5G-AndroidU-kernel-source",
-      "branch": "master",
+      "repo": "https://github.com/Realme-SM6375-devs/android_kernel_realme_sm6375",
+      "branch": "lineage-21",
       "device": "oscar"
     },
     "withKernelSU": true,
